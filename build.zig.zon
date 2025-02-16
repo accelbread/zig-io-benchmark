@@ -1,0 +1,15 @@
+// zig-io-benchmark -- Benchmark for Zig std readers/writers
+// Copyright (C) 2024 Archit Gupta <archit@accelbread.com>
+// SPDX-License-Identifier: MIT-0
+
+.{
+    .name = "io-benchmark",
+    .version = "0.0.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
