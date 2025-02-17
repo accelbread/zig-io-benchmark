@@ -1,0 +1,3 @@
+[submodule "json-data"]
+	path = json-data
+	url = https://github.com/json-iterator/test-data.git
